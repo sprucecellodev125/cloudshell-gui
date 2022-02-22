@@ -1,7 +1,7 @@
 #!/bin/bash
-sudo unzip '/usr/share/themes/Catppuccin-dark.zip' && sudo rm '/usr/share/themes/Catppuccin-dark.zip' 
-sudo unzip '/usr/share/themes/Catppuccin-dark-hdpi.zip' && sudo rm '/usr/share/themes/Catppuccin-dark-hdpi.zip' 
-sudo unzip '/usr/share/themes/Catppuccin-dark-xhdpi.zip' && sudo rm '/usr/share/themes/Catppuccin-dark-xhdpi.zip' 
+sudo unzip '/usr/share/themes/Catppuccin-dark.zip'
+sudo unzip '/usr/share/themes/Catppuccin-dark-hdpi.zip'
+sudo unzip '/usr/share/themes/Catppuccin-dark-xhdpi.zip'
 sudo unzip '/usr/share/themes/Catppuccin-green.zip'
 sudo unzip '/usr/share/themes/Catppuccin-green-dark.zip'
 sudo unzip '/usr/share/themes/Catppuccin-green-dark-hdpi.zip'
