@@ -1,7 +1,7 @@
 # cloudshell-gui
 Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
 # Why tho? there's ubuntu-desktop-lxde-vnc docker container
-But installing Docker container is bloat and the container home storage isn't persistent. Also why not just use Debian (the default Cloud Shell operating system)?
+But installing Docker container is bloat and the container home storage isn't persistent by default. Also why not just use Debian (the default Cloud Shell operating system)?
 # Full instructions
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/_SCIBcL8mrQ/0.jpg)](http://www.youtube.com/watch?v=_SCIBcL8mrQ "How I installed Xfce desktop on Cloud Shell")
 # Usage 
